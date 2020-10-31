@@ -24,13 +24,13 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     setState(() {
-      _counter += 1;
+      _counter += 5;
     });
   }
 
   void _decrementCounter() {
     setState(() {
-      _counter -= 1;
+      _counter -= 5;
     });
   }
 
